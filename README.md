@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 Currently pursuing a bachelor's degree in Engineering.
+- 📚 Constantly learning and exploring, right now php and java
+- 👯 Stack of technologies: React, Nextjs, Go, Python, php and java
 
 <!--
 **Jateq/jateq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
